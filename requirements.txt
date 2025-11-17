@@ -1,0 +1,9 @@
+Text: "You are stupid"
+Toxicity: 72%
+Flags: insult
+
+---
+
+## requirements.txt
+```txt
+# no external libraries
